@@ -6,7 +6,7 @@ const app = express();
 const connection = mysql.createConnection({
     host: 'mysql5-container',
     user: 'root',
-    password: 'lucasDoido.019!',
+    password: 'apicomdocker',
     database: 'apicomdocker'
 });
 

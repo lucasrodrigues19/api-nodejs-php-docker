@@ -2,8 +2,10 @@
 **Api construida com Node.js consumida em php, rodando em ambiente docker**
 ## Requisitos para executar para executar a aplicação
 - [Docker](https://docs.docker.com/)
+
 ## Com o Docker instalado, e rodando, no terminal docker execute os comandos:
- - Mude para a pasta raiz do projeto:
+#### 1ª ETAPA: 
+- Mude para a pasta raiz do projeto:
  
    **cd pastadoprojeto**
   - OPCIONAL: liste as imagens, para verificar se precisa realmente construi-las.
